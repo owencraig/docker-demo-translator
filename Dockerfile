@@ -1,6 +1,6 @@
 FROM node:4
 
-ENV APP_PORT 3000
+ENV APP_NAME Translator
 
 RUN npm install -g jasmine-node 
 
